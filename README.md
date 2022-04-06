@@ -16,7 +16,7 @@
 </div>
 
 - 🏢 I’m currently working on [ДОМ.РФ](https://дом.рф/)
-- 📫 How to reach me: [email@nikitachurilin.ru](mailto:email@nikitachurilin.ru)
+- 📫 How to reach me: [me@nikitachurilin.ru](mailto:me@nikitachurilin.ru)
 
 ### Programming Languages, Frameworks, Technologies
 <div>
