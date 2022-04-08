@@ -26,6 +26,7 @@
   <img alt="PUG" src="https://img.shields.io/badge/pug-a86454?&style=for-the-badge&logo=pug&logoColor=ffffff"/>&nbsp;
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
   <img alt="SASS" src="https://img.shields.io/badge/sass-bf4080?&style=for-the-badge&logo=sass&logoColor=ffffff"/>&nbsp;
+  <img alt"Styled components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>&nbsp;
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>&nbsp;
   <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>&nbsp;
   <img alt="Webpack" src="https://img.shields.io/badge/webpack-175d96?&style=for-the-badge&logo=webpack&logoColor=ffffff"/>&nbsp;
