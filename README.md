@@ -15,7 +15,7 @@
   </h1>
 </div>
 
-- 🏢 I’m currently working on [ДОМ.РФ](https://дом.рф/)
+- 🏢 I’m currently working on [Jet](https://jet.su/)
 - 📫 How to reach me: [me@nikitachurilin.ru](mailto:me@nikitachurilin.ru)
 
 ### Working cases
